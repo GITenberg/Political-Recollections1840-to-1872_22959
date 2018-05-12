@@ -1,0 +1,30 @@
+_repo: Political-Recollections1840-to-1872_22959
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Julian, George Washington
+    alias: Julian, George W. (George Washington)
+    birthdate: 1817
+    deathdate: 1899
+    gutenberg_agent_id: '25609'
+    url: http://www.gutenberg.org/2009/agents/25609
+description: ''
+gutenberg_issued: '2007-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcc 'JK'
+- !lcsh 'Republican Party (U.S. : 1854- ) -- History'
+title: 'Political Recollections
+
+  1840 to 1872'
+url: http://www.gutenberg.org/ebooks/22959
